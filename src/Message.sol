@@ -15,7 +15,7 @@ contract Message {
 		
 		/// Eventos ///
         ///@notice variável emitida quando a mensagem é atualizada
-		event PrimeiroContrato_MensagemAtualizada();
+		event Message_MensagemAtualizada();
 		
 		/// Funções ///
         /**
@@ -26,7 +26,7 @@ contract Message {
 		function setMensagem(string memory _mensagem) external {
 			s_mensagem = _mensagem;
 			
-			emit PrimeiroContrato_MensagemAtualizada();
+			emit Message_MensagemAtualizada();
 		}
 		
         /**
