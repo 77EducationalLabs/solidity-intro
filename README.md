@@ -1,66 +1,102 @@
-## Foundry
+<div align="center">
+<h1> Introdução ao Desenvolvimento Blockchain e Contratos Inteligentes em Solidity <br>
+Curso para Iniciantes </h1>
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+<p align="center"><strong>Aprenda a desenvolver contratos inteligentes e seja parte da mudança!</strong></p>
 
-Foundry consists of:
+</div>
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+Encontrou algum problema ou tem alguma dúvida? Compartilhe conosco na aba [discussões]().
 
-## Documentation
+Siga-nos nas redes sociais e fique por dentro de todas as atualizações:
 
-https://book.getfoundry.sh/
+- [Site](https://77innovationlabs.com) - Acesse nosso site e verifique as opções de cursos que oferecemos.
+- [X](https://twitter.com/77innovationlabs) - Fique atento à informações e eventos que a 77 participará.
+- [LinkedIn](https://www.linkedin.com/company/77Innovationlabs) - Siga nos no linkedin e compartilhe suas experiências profissionais conosco.
+- [Discord](https://discord.gg/H2UpdzbbRJ) - Junte-se a nossa comunidade e compartilhe suas experiências conosco.
+- [TikTok](https://tiktok.com/@77innovationlabs) - Siga-nos e não perca dicas de desenvolvimento e notícias do mercado.
 
-## Usage
 
-### Build
+<br/>
 
-```shell
-$ forge build
-```
+Cursos da 77 Innovation Labs:
 
-### Test
+- [Introdução ao Solidity]()
+- [Solidity Intermediário & Foundry]()
+- [Solidity Avançado & Foundry]()
 
-```shell
-$ forge test
-```
+# Sumário
 
-### Format
+> Bem-vindo ao repositório do Curso! Aqui você encontrará o conteúdo abordado, bem como conteúdo de apoio para reforço de aprendizado.
 
-```shell
-$ forge fmt
-```
+<details>
 
-### Gas Snapshots
+<summary>Links Úteis</summary>
 
-```shell
-$ forge snapshot
-```
+- [Chainlist]()
+- [Testnet Faceuts]()
+- [Documentação do Solidity]()
 
-### Anvil
+</details>
 
-```shell
-$ anvil
-```
+<details>
 
-### Deploy
+<summary>Remix IDE</summary>
 
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
+</details>
 
-### Cast
+<details>
 
-```shell
-$ cast <subcommand>
-```
+<summary>Introdução ao Solidity</summary>
+   - Licenças
+   - Pragma
 
-### Help
+</details>
 
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+<details>
+<summary>Variáveis</summary>
+</details>
+
+<details>
+<summary>Armazenamento</summary>
+</details>
+
+<details>
+<summary>Funções</summary>
+</details>
+
+<details>
+<summary>Variáveis</summary>
+</details>
+
+<details>
+<summary>Eventos e Erros</summary>
+</details>
+
+<details>
+<summary>Estruturas de Controle</summary>
+</details>
+
+<details>
+<summary>Operadores</summary>
+</details>
+
+<details>
+<summary>Função Hash</summary>
+</details>
+
+<details>
+<summary>Layout de Contratos Inteligentes</summary>
+</details>
+
+<details>
+<summary>Padrões de Desenvolvimento Solidity</summary>
+   - CEI
+   - Pull over Push
+   - Controle de Acesso
+   - State Machine
+   - Lista de Endereços
+   - Comparação de Strings
+</details>
+
+> Todos os contratos desenvolvidos são para fins educacionais, não foram auditados e não devem ser utilizados em produção.
