@@ -52,9 +52,14 @@ Encontrou algum problema ou tem alguma dúvida? Compartilhe conosco na aba [disc
 
 <summary>Links Úteis</summary>
 
-- [Chainlist]()
-- [Testnet Faceuts]()
-- [Documentação do Solidity]()
+- [Licenças](https://spdx.org/licenses/)
+- [Chainlist](https://chainlist.org/)
+- [Testnet Faceuts](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)
+- [Documentação do Solidity](https://docs.soliditylang.org/en/stable/)
+- [Timestamp Converter](https://www.unixtimestamp.com/)
+- [The DAO Hack](https://blog.chain.link/reentrancy-attacks-and-the-dao-hack/)
+- [Pull over Push](https://samczsun.com/two-rights-might-make-a-wrong/)
+
 <br>
 </details>
 
