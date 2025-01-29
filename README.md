@@ -206,5 +206,5 @@ Encontrou algum problema ou tem alguma dúvida? Compartilhe conosco na aba [disc
 
 <div align="center">
   <p> Powered by </p>
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiKq_coONmhyP041Ubs_uh9HvAXG66lb4W-ZUmYODIpT3l5MsnsUAsDmGn7ONMpSmZiqr_adMILbM1IRUEpRJdRNlXPVyibRRm9jWvxauw9Wzu0gfM5Dh6T27O4CEd9EC37wi-MoDnnJTKhGViaRm41yFswiazsSY2vFa7g1u5LUstvufjoeHztNHqTPPY=s16000" width="15%">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgKM5h5oO-Jl7faARzR0q2tF3_zCRIQ_Rb6CpwpyMuPg9rsqx_QbcuyHXrV5mO8Jp6qexGsHomTpyqwKqPUucLPmuAF39dyqsdyFBXYvmqzIXOC-9GU3ylyFpR2mn7KmSnuoNhfmmw1DRL3cuqLGDVpNmCF9MCrlivTQH0Xq3NJcAKPR-2GuQHLvX9WMls=s16000" width="15%">
 </div>
