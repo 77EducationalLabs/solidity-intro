@@ -37,7 +37,9 @@
 - [Solidity Avançado & Foundry]()
 
 <br>
-Encontrou algum problema ou tem alguma dúvida? Compartilhe conosco na aba [discussões]().
+
+Encontrou algum problema ou tem alguma dúvida? Compartilhe conosco na aba [discussões](https:// ).
+
 <br>
 <br>
 
