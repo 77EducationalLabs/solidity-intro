@@ -1,44 +1,66 @@
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjUWPyYTDpJuajmaMWwVL235t05jfFd_jkUKR6N0ZKvhqpd6jhPwmFY-d5gCuFzThgvVrTg2mFce0l2GqxyrsXlyb8x6Cs-i7OdCuiQWDiI23n8sMH8b0e0ypL-gLx_6fXoUNtQ7eA30JlhUSM2M0x0aowilfSj1ORA40QYcLF2hj2kFScWIu2DLvAcCAw=s16000">
+</p>
+
+<p align="center">
+  <a href="https://linktree.com/77innovationlabs" target="_blank"><img src="https://img.shields.io/badge/linktree-5b5b5b?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/company/77innovationlabs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3090E6?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.77innovationlabs.com/" target="_blank"><img src="https://img.shields.io/badge/website-262262?style=for-the-badge&logo=www&logoColor=white"></a>
+  <a href="https://www.instagram.com/77innovationlabs" target="_blank"><img src="https://img.shields.io/badge/instagram-5b5b5b?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://x.com/77innovationlab" target="_blank"><img src="https://img.shields.io/badge/x-3090E6?style=for-the-badge&logoColor=white"></a>
+  <a href="https://discord.gg/H2UpdzbbRJ" target="_blank"><img src="https://img.shields.io/badge/discord-262262?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://tiktok.com/@77innovationlabs" target="_blank"><img src="https://img.shields.io/badge/tiktok-5b5b5b?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+</p>
+
+</br>
+</br>
+
 <div align="center">
-<h1> Introdução ao Desenvolvimento Blockchain e Contratos Inteligentes em Solidity <br>
-Curso para Iniciantes </h1>
+<h2> 
+  Curso para Iniciantes
+</h2>
 
-<img src="https://blogger.googleusercontent.com/img/a/AVvXsEgmp5we6URvefTI6U46fdVhpByNX9B-m_XWJNSFT81uLIR2CS0WC-690pVd4A5KeDd8DJjuSWOdP9N2oPQm0BaT63Nd2IrArELuBH1eEzjPTHJcjRErtydCDoUOD34zaKIesDZkJsYH0TwDHxY7CvAJg--mn0xD-Asi-kyVlpozkM9JQIBHy_A3AM1tiOM=s16000">
+<h1>
+  Introdução ao Desenvolvimento Blockchain e Contratos Inteligentes em Solidity
+</h1>
 
-<p align="center"><strong>Aprenda a desenvolver contratos inteligentes e seja parte da mudança!</strong></p>
+<p align="center"><strong> 🚀 Aprenda a desenvolver contratos inteligentes e seja parte da mudança!</strong></p>
 
 </div>
 
-Encontrou algum problema ou tem alguma dúvida? Compartilhe conosco na aba [discussões]().
-
-Siga-nos nas redes sociais e fique por dentro de todas as atualizações:
-
-- [Site](https://77innovationlabs.com) - Acesse nosso site e verifique as opções de cursos que oferecemos.
-- [X](https://twitter.com/77innovationlabs) - Fique atento à informações e eventos que a 77 participará.
-- [LinkedIn](https://www.linkedin.com/company/77Innovationlabs) - Siga nos no linkedin e compartilhe suas experiências profissionais conosco.
-- [Discord](https://discord.gg/H2UpdzbbRJ) - Junte-se a nossa comunidade e compartilhe suas experiências conosco.
-- [TikTok](https://tiktok.com/@77innovationlabs) - Siga-nos e não perca dicas de desenvolvimento e notícias do mercado.
-
-
 <br/>
 
-Nossos Cursos:
+📚 Nossos Cursos:
 
 - [Introdução ao Solidity]()
 - [Solidity Intermediário & Foundry]()
 - [Solidity Avançado & Foundry]()
 
+<br>
+
+Encontrou algum problema ou tem alguma dúvida? Compartilhe conosco na aba [discussões](https:// ).
+
+<br>
+<br>
+
 # Sumário
 
-> Bem-vindo ao repositório do Curso! Aqui você encontrará o conteúdo abordado, bem como conteúdo de apoio para reforço de aprendizado.
+> 👋 Bem-vindo ao repositório do Curso! Aqui você encontrará o conteúdo abordado, bem como conteúdo de apoio para reforço de aprendizado.
+<br>
 
 <details>
 
 <summary>Links Úteis</summary>
 
-- [Chainlist]()
-- [Testnet Faceuts]()
-- [Documentação do Solidity]()
+- [Licenças](https://spdx.org/licenses/)
+- [Chainlist](https://chainlist.org/)
+- [Testnet Faceuts](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)
+- [Documentação do Solidity](https://docs.soliditylang.org/en/stable/)
+- [Timestamp Converter](https://www.unixtimestamp.com/)
+- [The DAO Hack](https://blog.chain.link/reentrancy-attacks-and-the-dao-hack/)
+- [Pull over Push](https://samczsun.com/two-rights-might-make-a-wrong/)
 
+<br>
 </details>
 
 <details>
@@ -54,7 +76,7 @@ Nossos Cursos:
 <li>Licenças</li>
 <li>Pragma</li>
 </ol>
-
+<br>
 </details>
 
 <details>
@@ -64,6 +86,7 @@ Nossos Cursos:
 <li>Tipos de Referência</li>
 <li></li>
 </ol>
+<br>
 </details>
 
 <details>
@@ -72,6 +95,7 @@ Nossos Cursos:
 <li>Visibilidade</li>
 <li>Tipos</li>
 </ol>
+<br>
 </details>
 
 <details>
@@ -81,6 +105,7 @@ Nossos Cursos:
 <li>Memory</li>
 <li>Calldata</li>
 </ol>
+<br>
 </details>
 
 <details>
@@ -92,6 +117,7 @@ Nossos Cursos:
 <li>Constructor</li>
 <li>Modificadores</li>
 </ol>
+<br>
 </details>
 
 <details>
@@ -101,6 +127,7 @@ Nossos Cursos:
 <li>Extensões do `address`</li>
 <li>Envio e Recebimento de ether</li>
 </ol>
+<br>
 </details>
 
 <details>
@@ -111,6 +138,7 @@ Nossos Cursos:
 <li> Manipulação de Erros</li>
 <li> Boas Práticas </li>
 </ol>
+<br>
 </details>
 
 <details>
@@ -121,6 +149,7 @@ Nossos Cursos:
 <li>Loop</li>
 <li>Controle de Fluxo</li>
 </ol>
+<br>
 </details>
 
 <details>
@@ -131,6 +160,7 @@ Nossos Cursos:
 <li>De Atribuição</li>
 <li>Condicional</li>
 </ol>
+<br>
 </details>
 
 <details>
@@ -138,6 +168,7 @@ Nossos Cursos:
 <ol>
 <li>keccak256</li>
 </ol>
+<br>
 </details>
 
 <details>
@@ -146,6 +177,7 @@ Nossos Cursos:
 <li>Boas Práticas</li>
 <li>Organização do Escopo do Contrato</li>
 </ol>
+<br>
 </details>
 
 <details>
@@ -159,7 +191,7 @@ Nossos Cursos:
 <li>Lista de Endereços</li>
 <li>Comparação de Strings</li>
 </ol>
-
+<br>
 </details>
 
 <details>
@@ -170,12 +202,16 @@ Nossos Cursos:
 <li>Nomenclatura de Variáveis</li>
 <li>Nomenclatura de Erros e Eventos</li>
 </ol>
-
+<br>
 </details>
 
+<br>
+
+⚠️ Contratos aqui presentes são para fins educacionais, não foram auditados e não devem ser utilizados em produção.
+
+</div>
+
 <div align="center">
-
-<img src="./Imagens/Logo_EDUCACIONAL_PRIMARIA_fundo branco.jpg" width="500px" height="300px">
-
-Contratos aqui presentes são para fins educacionais, não foram auditados e não devem ser utilizados em produção.
+  <p> Powered by </p>
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgKM5h5oO-Jl7faARzR0q2tF3_zCRIQ_Rb6CpwpyMuPg9rsqx_QbcuyHXrV5mO8Jp6qexGsHomTpyqwKqPUucLPmuAF39dyqsdyFBXYvmqzIXOC-9GU3ylyFpR2mn7KmSnuoNhfmmw1DRL3cuqLGDVpNmCF9MCrlivTQH0Xq3NJcAKPR-2GuQHLvX9WMls=s16000" width="15%">
 </div>
