@@ -207,9 +207,9 @@ Encontrou algum problema ou tem alguma dúvida? Compartilhe conosco na aba [disc
 
 <br>
 
-⚠️Os contratos aqui presentes são para fins educacionais, não foram auditados e não devem ser utilizados em produção.
+⚠️ Contratos aqui presentes são para fins educacionais, não foram auditados e não devem ser utilizados em produção.
 
-<br>
+</div>
 
 <div align="center">
   <p> Powered by </p>
